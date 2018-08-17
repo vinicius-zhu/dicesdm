@@ -15,9 +15,17 @@
         android:textSize="18sp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/jogarDadoButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Jogar" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/ainda_nao_foi_lancado"
+        android:textSize="18sp" />
 
 </LinearLayout>
