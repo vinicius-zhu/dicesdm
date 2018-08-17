@@ -18,10 +18,11 @@
         android:id="@+id/jogarDadoButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Jogar" />
+        android:onClick="jogarDado"
+        android:text="@string/jogar" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/resultadoTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
