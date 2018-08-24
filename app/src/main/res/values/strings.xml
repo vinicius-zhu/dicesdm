@@ -7,6 +7,7 @@
     <string name="string_number_parameters">%s %d %d</string>
     <string name="resultado">Resultado</string>
     <string name="selecione_o_numero_de_dados">Selecione o número de dados</string>
+    <string name="entre_com_o_numero_de_faces">Entre com o número de faces</string>
     <string-array name="numero_dados">
         <item>1</item>
         <item>2</item>

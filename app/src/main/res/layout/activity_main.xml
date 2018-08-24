@@ -23,6 +23,23 @@
         android:textAlignment="center" />
 
     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/entre_com_o_numero_de_faces"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/numFacesEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:inputType="number"
+        android:textSize="18sp"
+        android:hint="@string/entre_com_o_numero_de_faces"/>
+
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
