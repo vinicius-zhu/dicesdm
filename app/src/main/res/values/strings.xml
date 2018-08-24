@@ -8,6 +8,8 @@
     <string name="resultado">Resultado</string>
     <string name="selecione_o_numero_de_dados">Selecione o número de dados</string>
     <string name="entre_com_o_numero_de_faces">Entre com o número de faces</string>
+    <string name="numero_de_faces_deve_ser_maior_que_zero">Número de faces deve ser maior que 0!</string>
+    <string name="numero_invalido">Número inválido!</string>
     <string-array name="numero_dados">
         <item>1</item>
         <item>2</item>
